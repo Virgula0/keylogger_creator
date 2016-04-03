@@ -4,22 +4,22 @@
                                   ==         e progettato da Angelo Rosa nel marzo 2016         ==
                                   ==      Copia e diffusione del programma sono autorizzati     ==               
                                   ==   in quanto questo e' open source. L'autore non si assume  ==
-                                  ==      alcune responsabilit‡ circa l'uso, la distribuzione   ==                     
+                                  ==      alcune responsabilit√† circa l'uso, la distribuzione   ==                     
                                   == e la modifica per fini illeciti del programma in questione.==
                                   ==                      Solo per windows.                     ==
-                                  ==    La velocit‡ del caricamento dei rari elementi grafici   ==
+                                  ==    La velocit√† del caricamento dei rari elementi grafici   ==
                                   ==  presenti,dipendono dal clock della CPU del tuo computer.  ==
                                   ================================================================
                                   ################################################################                                       
                                   ##   I virus creati possono essere rilevati dagli antivirus.  ##
                                   ##        I virus creati sono stati creati dall'autore.       ##
-								  ##                Ulteriori informazioni sono                 ##
+                                  ##                Ulteriori informazioni sono                 ##
                                   ##  reperibili nella seziozone help del programma una volta   ##
                                   ##      eseguito.                                             ##
                                   ##  Per la segnalazione di bug o per altri problemi contatta: ##
                                   ##                [angelo.rosa1999@gmail.com]                 ##
                                 ####                    Vota il programma:                      #######
-							    ## http://redirecthttp.altervista.org/faq_keylogger_creator/vota.php ##
+			        ## http://redirecthttp.altervista.org/faq_keylogger_creator/vota.php ##
                                 ##########                   [*GitHub*]                   #############
                                   ##      https://github.com/Virgula0/keylogger_creator         ##
                                   ##                    [KeyLogger hidden:]                     ##
