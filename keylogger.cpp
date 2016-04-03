@@ -65,7 +65,7 @@ PlaySound(".\\musica\\remix_by_angelo.wav",0,SND_ASYNC);
 		intestazione();// funzione per l'intestazione
 		a = choose1(); //richiamo funzione choose1 assegnando il ritonrno dalla funzione ad un avariabile
     	
-		switch (a){
+	switch (a){
     	
     	case(1):
     	    waiting();
@@ -76,17 +76,17 @@ PlaySound(".\\musica\\remix_by_angelo.wav",0,SND_ASYNC);
     	    break;
     	
     	case(2):
-    		waiting();
-    		key_logger_2();
+    	    waiting();
+    	    key_logger_2();
     	    b = choose2();
-			if (b==1)
-			a = 20;
-    	    break;
+	    if (b==1)
+	    a = 20;
+    	break;
     	    
     	case(3):
-    		restart:
-    		system("cls");
-    		intestazione();
+    	     restart:
+    	     system("cls");
+    	     intestazione();
 			c = dir_choose();
 			if (c==1000){
 			open_url();
