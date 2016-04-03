@@ -18,9 +18,6 @@
                                   ##      eseguito.                                             ##
                                   ##  Per la segnalazione di bug o per altri problemi contatta: ##
                                   ##                [angelo.rosa1999@gmail.com]                 ##
-                                ####                    Vota il programma:                      #######
-			        ## http://redirecthttp.altervista.org/faq_keylogger_creator/vota.php ##
-                                ##########                   [*GitHub*]                   #############
                                   ##      https://github.com/Virgula0/keylogger_creator         ##
                                   ##                    [KeyLogger hidden:]                     ##
                                   ##      https://github.com/Virgula0/keylogger_hidden          ##
